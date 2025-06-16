@@ -1,8 +1,8 @@
-# A Unified Benchmark for Open-Set Semi-Supervised Learning
+# A Unified Benchmark for Open-Set SSL
 
 ## Introduction
 
-This is an pytorch repository for ***Open-set Semi-supervised Learning (open-set SSL)***:
+This is an pytorch repository for ***Open-set Semi-supervised Learning (open-set SSL)***.
 
 
 ## Getting Started
